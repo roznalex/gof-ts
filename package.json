@@ -1,0 +1,30 @@
+{
+  "name": "gof-ts",
+  "version": "1.0.0",
+  "description": "GoF Design Patterns in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roznalex/gof-ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "gof",
+    "\"design",
+    "patterns\""
+  ],
+  "author": "roznalex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roznalex/gof-ts/issues"
+  },
+  "homepage": "https://github.com/roznalex/gof-ts#readme",
+  "dependencies": {
+    "typescript": "^3.4.3"
+  },
+  "devDependencies": {}
+}
