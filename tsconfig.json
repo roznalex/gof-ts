@@ -6,6 +6,7 @@
     "noImplicitAny": true
   },
   "files": [
-    "factoryMethod/main.ts"
+    "factoryMethod/main.ts",
+    "abstractFactory/main.ts"
   ]
 }
