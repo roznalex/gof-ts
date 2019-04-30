@@ -7,6 +7,7 @@
   },
   "files": [
     "factoryMethod/main.ts",
-    "abstractFactory/main.ts"
+    "abstractFactory/main.ts",
+    "builder/main.ts"
   ]
 }
