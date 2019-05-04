@@ -5,9 +5,10 @@
     "moduleResolution": "node",
     "noImplicitAny": true
   },
-  "files": [
-    "factoryMethod/main.ts",
-    "abstractFactory/main.ts",
-    "builder/main.ts"
+  "include": [
+    "./**/*.ts"
+  ],
+  "exclude": [
+    "./node_modules"
   ]
 }
